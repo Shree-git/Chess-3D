@@ -2,7 +2,10 @@
 
 Made using Unity Engine
 
-# Pictures
+## Gameplay
+Click [here](https://drive.google.com/drive/folders/1g57VrwHE_flk5GDhLSFsc7jU_0GDTo4m)!
+
+## Pictures
 
 ![chess](https://user-images.githubusercontent.com/56151022/159086336-5e5ad9f5-a6c4-4bd6-ba49-38a86f09a498.jpeg)
 ![chess1](https://user-images.githubusercontent.com/56151022/159086337-17081f24-11d1-4dbb-8a61-ee682368dbc5.jpeg)
